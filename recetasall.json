@@ -1,0 +1,462 @@
+{
+  "recetas": [
+    {
+      "id": 1,
+      "nombre": "Apple Pie",
+      "descripcion": "A classic apple pie with cinnamon.",
+      "ingredientes": [
+        "Apples",
+        "Flour",
+        "Sugar",
+        "Cinnamon",
+        "Eggs",
+        "Butter"
+      ],
+      "pasos": [
+        "Peel and slice the apples.",
+        "Mix flour, sugar, and cinnamon.",
+        "Add eggs and butter.",
+        "Place the apples in the mixture.",
+        "Bake at 180 degrees for 45 minutes."
+      ],
+      "categoria": "Dulce",
+      "foto": "https://liliebakery.fr/wp-content/uploads/2022/10/Recette-apple-pie-tourte-aux-pommes-Lilie-Bakery-1024x1534.jpg"
+    },
+    {
+      "id": 2,
+      "nombre": "Caesar Salad",
+      "descripcion": "A classic Caesar salad with chicken.",
+      "ingredientes": [
+        "Lettuce",
+        "Chicken",
+        "Parmesan Cheese",
+        "Croutons",
+        "Caesar Dressing"
+      ],
+      "pasos": [
+        "Chop the lettuce.",
+        "Grill the chicken and cut into strips.",
+        "Mix all ingredients in a bowl.",
+        "Add the dressing and mix well."
+      ],
+      "categoria": "Salado",
+      "foto": "https://images.immediate.co.uk/production/volatile/sites/30/2023/03/Caesar-salad-dressing-b4247ff.jpg?quality=90&resize=556,505"
+    },
+    {
+      "id": 3,
+      "nombre": "Chocolate Cake",
+      "descripcion": "A rich and moist chocolate cake.",
+      "ingredientes": [
+        "Flour",
+        "Cocoa Powder",
+        "Sugar",
+        "Eggs",
+        "Butter",
+        "Baking Powder"
+      ],
+      "pasos": [
+        "Preheat the oven to 180 degrees.",
+        "Mix flour, cocoa powder, and sugar.",
+        "Add eggs and melted butter.",
+        "Pour the batter into a baking tin.",
+        "Bake for 35 minutes."
+      ],
+      "categoria": "Dulce",
+      "foto": "https://recipes.net/wp-content/uploads/2023/07/gooey-chocolate-cake_42790c27c6a337fa6a566d3a8f1497c6.jpeg"
+    },
+    {
+      "id": 4,
+      "nombre": "Spaghetti Bolognese",
+      "descripcion": "Classic Italian pasta with meat sauce.",
+      "ingredientes": [
+        "Spaghetti",
+        "Ground Beef",
+        "Tomato Sauce",
+        "Onion",
+        "Garlic",
+        "Olive Oil"
+      ],
+      "pasos": [
+        "Cook the spaghetti according to the package instructions.",
+        "Sauté onion and garlic in olive oil.",
+        "Add ground beef and cook until browned.",
+        "Pour in tomato sauce and simmer for 20 minutes.",
+        "Serve the sauce over the spaghetti."
+      ],
+      "categoria": "Salado",
+      "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuRRSnuTwGv9fBqYx67nh6bF2Ego0ON21WVg&s"
+    },
+    {
+      "id": 5,
+      "nombre": "Vegetable Stir Fry",
+      "descripcion": "Quick and easy vegetable stir fry.",
+      "ingredientes": [
+        "Broccoli",
+        "Carrots",
+        "Bell Peppers",
+        "Soy Sauce",
+        "Garlic",
+        "Olive Oil"
+      ],
+      "pasos": [
+        "Chop all vegetables into bite-sized pieces.",
+        "Heat olive oil in a pan.",
+        "Add garlic and sauté for a minute.",
+        "Add vegetables and stir fry until tender.",
+        "Pour in soy sauce and cook for another 2 minutes."
+      ],
+      "categoria": "Vegetariano",
+      "foto": "hhttps://hips.hearstapps.com/hmg-prod/images/veggie-stir-fry-1597687367.jpg?crop=0.793xw:0.793xh;0.0619xw,0.0928xh&resize=1200:*"
+    },
+    {
+      "id": 6,
+      "nombre": "Chicken Curry",
+      "descripcion": "A spicy and flavorful chicken curry.",
+      "ingredientes": [
+        "Chicken",
+        "Curry Powder",
+        "Coconut Milk",
+        "Onion",
+        "Garlic",
+        "Ginger"
+      ],
+      "pasos": [
+        "Sauté onion, garlic, and ginger in a pot.",
+        "Add chicken and cook until browned.",
+        "Stir in curry powder and cook for another minute.",
+        "Pour in coconut milk and simmer for 20 minutes.",
+        "Serve with rice."
+      ],
+      "categoria": "Omnívoro",
+      "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThD3G4_mppgUSRkfKfo4TmncVaU-T9odP_y0UqMZLuyBpyzJ_ODeWjruDYedHYtZ3AC9g&usqp=CAU"
+    },
+    {
+      "id": 7,
+      "nombre": "Pancakes",
+      "descripcion": "Fluffy pancakes perfect for breakfast.",
+      "ingredientes": [
+        "Flour",
+        "Milk",
+        "Eggs",
+        "Sugar",
+        "Baking Powder",
+        "Butter"
+      ],
+      "pasos": [
+        "Mix flour, sugar, and baking powder.",
+        "Add milk and eggs, and whisk until smooth.",
+        "Heat butter in a pan.",
+        "Pour batter into the pan and cook until bubbles form.",
+        "Flip and cook until golden brown."
+      ],
+      "categoria": "Dulce",
+      "foto": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.elamasadero.com%2Fla-receta-mas-facil-del-mundo-pancakes%2F&psig=AOvVaw0CRjURZAA9wxqK5ISshpgC&ust=1719000677394000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCd5Nv-6oYDFQAAAAAdAAAAABAE"
+    },
+    {
+      "id": 8,
+      "nombre": "Beef Tacos",
+      "descripcion": "Traditional Mexican beef tacos.",
+      "ingredientes": [
+        "Ground Beef",
+        "Taco Shells",
+        "Lettuce",
+        "Tomato",
+        "Cheese",
+        "Taco Seasoning"
+      ],
+      "pasos": [
+        "Cook ground beef in a pan with taco seasoning.",
+        "Chop lettuce and tomato.",
+        "Assemble the tacos with beef, lettuce, tomato, and cheese.",
+        "Serve with your favorite salsa."
+      ],
+      "categoria": "Salado",
+      "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqjQNTueryDli37xkOHqSgkLlm30jPySkgYg&s"
+    },
+    {
+      "id": 9,
+      "nombre": "Fruit Salad",
+      "descripcion": "A refreshing mix of seasonal fruits.",
+      "ingredientes": [
+        "Strawberries",
+        "Blueberries",
+        "Bananas",
+        "Oranges",
+        "Grapes",
+        "Honey"
+      ],
+      "pasos": [
+        "Chop all fruits into bite-sized pieces.",
+        "Mix all fruits in a bowl.",
+        "Drizzle with honey and toss gently.",
+        "Chill in the fridge before serving."
+      ],
+      "categoria": "Vegetariano",
+      "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKSAzeoqNBWOutXtLfpT37QEHQuQ49KBQjrQ&s"
+    },
+    {
+      "id": 10,
+      "nombre": "Grilled Salmon",
+      "descripcion": "Simple and delicious grilled salmon.",
+      "ingredientes": [
+        "Salmon Fillets",
+        "Lemon",
+        "Olive Oil",
+        "Garlic",
+        "Salt",
+        "Pepper"
+      ],
+      "pasos": [
+        "Preheat the grill to medium-high heat.",
+        "Brush salmon with olive oil and season with salt and pepper.",
+        "Grill salmon for 4-6 minutes on each side.",
+        "Squeeze fresh lemon juice over the top before serving."
+      ],
+      "categoria": "Omnívoro",
+      "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk1BBovn0Ea0nW-fDMZ4XxdPNPWuEYKit_9Q&s"
+    },
+    {
+      "id": 11,
+      "nombre": "Brownies",
+      "descripcion": "Rich and fudgy chocolate brownies.",
+      "ingredientes": [
+        "Butter",
+        "Sugar",
+        "Cocoa Powder",
+        "Flour",
+        "Eggs",
+        "Vanilla Extract"
+      ],
+      "pasos": [
+        "Preheat the oven to 180 degrees.",
+        "Melt butter and mix with sugar and cocoa powder.",
+        "Add eggs and vanilla extract.",
+        "Stir in flour until combined.",
+        "Pour batter into a baking pan and bake for 25 minutes."
+      ],
+      "categoria": "Dulce",
+      "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEiqgBlbcpeopjEMJxnvE2RKJGtvmekFqxpw&s"
+    },
+    {
+      "id": 12,
+      "nombre": "Chicken Alfredo",
+      "descripcion": "Creamy pasta with chicken and Alfredo sauce.",
+      "ingredientes": [
+        "Fettuccine",
+        "Chicken Breast",
+        "Heavy Cream",
+        "Parmesan Cheese",
+        "Garlic",
+        "Butter"
+      ],
+      "pasos": [
+        "Cook fettuccine according to package instructions.",
+        "Sauté garlic in butter.",
+        "Add chicken and cook until done.",
+        "Stir in heavy cream and Parmesan cheese.",
+        "Mix the sauce with the cooked fettuccine."
+      ],
+      "categoria": "Omnívoro",
+      "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT3YZi1-nni-HV40bVr3ZN8o8hXMJRyws3vGwDh4yCRUJ_SDGMfEwvvClUNfPK_McU5yY&usqp=CAU"
+    },
+    {
+      "id": 13,
+      "nombre": "Banana Bread",
+      "descripcion": "Moist and delicious banana bread.",
+      "ingredientes": [
+        "Bananas",
+        "Flour",
+        "Sugar",
+        "Eggs",
+        "Butter",
+        "Baking Soda"
+      ],
+      "pasos": [
+        "Preheat the oven to 175 degrees.",
+        "Mash bananas in a bowl.",
+        "Mix in melted butter and sugar.",
+        "Add eggs and stir well.",
+        "Stir in flour and baking soda.",
+        "Pour batter into a loaf pan and bake for 60 minutes."
+      ],
+      "categoria": "Dulce",
+      "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgu3riS3twEnd-uYhjPmjntTHbRAEZDkC_sw&s"
+    },
+    {
+      "id": 14,
+      "nombre": "Vegetable Soup",
+      "descripcion": "Healthy and hearty vegetable soup.",
+      "ingredientes": [
+        "Carrots",
+        "Potatoes",
+        "Celery",
+        "Onion",
+        "Tomatoes",
+        "Vegetable Broth"
+      ],
+      "pasos": [
+        "Chop all vegetables into small pieces.",
+        "Sauté onion and celery in a pot.",
+        "Add carrots, potatoes, and tomatoes.",
+        "Pour in vegetable broth and bring to a boil.",
+        "Simmer for 20 minutes until vegetables are tender."
+      ],
+      "categoria": "Vegetariano",
+      "foto": "https://cdn.loveandlemons.com/wp-content/uploads/2019/12/vegetable-soup-500x500.jpg"
+    },
+    {
+      "id": 15,
+      "nombre": "BBQ Ribs",
+      "descripcion": "Tender and flavorful BBQ ribs.",
+      "ingredientes": [
+        "Pork Ribs",
+        "BBQ Sauce",
+        "Salt",
+        "Pepper",
+        "Garlic Powder",
+        "Onion Powder"
+      ],
+      "pasos": [
+        "Preheat the oven to 150 degrees.",
+        "Season ribs with salt, pepper, garlic powder, and onion powder.",
+        "Wrap ribs in foil and bake for 2.5 hours.",
+        "Remove from oven and brush with BBQ sauce.",
+        "Grill ribs for 10 minutes, basting with more sauce."
+      ],
+      "categoria": "Omnívoro",
+      "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkamvlgkyEeoBMqUPLhBWfNRrTP330B__mig&s"
+    },
+    {
+      "id": 16,
+      "nombre": "Pumpkin Pie",
+      "descripcion": "Traditional pumpkin pie with spices.",
+      "ingredientes": [
+        "Pumpkin Puree",
+        "Sugar",
+        "Eggs",
+        "Evaporated Milk",
+        "Cinnamon",
+        "Nutmeg"
+      ],
+      "pasos": [
+        "Preheat the oven to 175 degrees.",
+        "Mix pumpkin puree, sugar, and spices.",
+        "Add eggs and evaporated milk.",
+        "Pour the mixture into a pie crust.",
+        "Bake for 60 minutes."
+      ],
+      "categoria": "Dulce",
+      "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsipyKjX5zsyFiGGZQpiA0vuUgEq-M9Fd3xw&s"
+    },
+    {
+      "id": 17,
+      "nombre": "Chicken Tacos",
+      "descripcion": "Quick and easy chicken tacos.",
+      "ingredientes": [
+        "Chicken Breast",
+        "Taco Shells",
+        "Lettuce",
+        "Tomato",
+        "Cheese",
+        "Taco Seasoning"
+      ],
+      "pasos": [
+        "Cook chicken in a pan with taco seasoning.",
+        "Chop lettuce and tomato.",
+        "Assemble the tacos with chicken, lettuce, tomato, and cheese.",
+        "Serve with your favorite salsa."
+      ],
+      "categoria": "Salado",
+      "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQct7Naedm6VXx8Zu4xs5KRq0hYB1qPOgg8Wg&s"
+    },
+    {
+      "id": 18,
+      "nombre": "Vegetarian Pizza",
+      "descripcion": "Homemade pizza with vegetables.",
+      "ingredientes": [
+        "Pizza Dough",
+        "Tomato Sauce",
+        "Mozzarella Cheese",
+        "Bell Peppers",
+        "Mushrooms",
+        "Onions"
+      ],
+      "pasos": [
+        "Preheat the oven to 220 degrees.",
+        "Spread tomato sauce on the pizza dough.",
+        "Sprinkle mozzarella cheese on top.",
+        "Add sliced bell peppers, mushrooms, and onions.",
+        "Bake for 15-20 minutes until cheese is melted."
+      ],
+      "categoria": "Vegetariano",
+      "foto": "https://cdn.loveandlemons.com/wp-content/uploads/2023/02/vegetarian-pizza.jpg"
+    },
+    {
+      "id": 19,
+      "nombre": "Roasted Chicken",
+      "descripcion": "Juicy roasted chicken with herbs.",
+      "ingredientes": [
+        "Whole Chicken",
+        "Olive Oil",
+        "Garlic",
+        "Rosemary",
+        "Thyme",
+        "Lemon"
+      ],
+      "pasos": [
+        "Preheat the oven to 190 degrees.",
+        "Rub chicken with olive oil and season with garlic, rosemary, and thyme.",
+        "Stuff the chicken with lemon halves.",
+        "Roast for 1.5 hours until golden brown.",
+        "Let rest for 10 minutes before carving."
+      ],
+      "categoria": "Omnívoro",
+      "foto": "https://www.skinnytaste.com/wp-content/uploads/2010/02/Roast-Chicken-with-Rosemary-_-Lemon-Finals-15-500x500.jpg"
+    },
+    {
+      "id": 20,
+      "nombre": "Oatmeal Cookies",
+      "descripcion": "Chewy oatmeal cookies with raisins.",
+      "ingredientes": [
+        "Oats",
+        "Flour",
+        "Sugar",
+        "Butter",
+        "Eggs",
+        "Raisins"
+      ],
+      "pasos": [
+        "Preheat the oven to 175 degrees.",
+        "Mix oats, flour, and sugar.",
+        "Add melted butter and eggs.",
+        "Stir in raisins.",
+        "Drop spoonfuls of dough onto a baking sheet.",
+        "Bake for 12-15 minutes."
+      ],
+      "categoria": "Dulce",
+      "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOZWeQKObpgPLYz3hye0jWI-ZBR5YSZRQ6pg&s"
+    },
+    {
+      "id": 21,
+      "nombre": "Garlic Shrimp",
+      "descripcion": "Quick and tasty garlic shrimp.",
+      "ingredientes": [
+        "Shrimp",
+        "Garlic",
+        "Butter",
+        "Parsley",
+        "Lemon",
+        "Salt"
+      ],
+      "pasos": [
+        "Heat butter in a pan.",
+        "Add minced garlic and sauté for a minute.",
+        "Add shrimp and cook until pink.",
+        "Season with salt and lemon juice.",
+        "Garnish with parsley before serving."
+      ],
+      "categoria": "Salado",
+      "foto": "https://s23209.pcdn.co/wp-content/uploads/2014/04/Garlic-Butter-Shrimp_485-500x500.jpg"
+    }
+  ]
+}
